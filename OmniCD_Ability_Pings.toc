@@ -1,0 +1,8 @@
+## Interface: 110100
+## Title: OmniCD - Ability Pings
+## Notes: Allows you to notify your party if your/their abilities are ready, or not.
+## Author: Veldt
+## Version: v1.0.0
+## Dependencies: OmniCD
+
+main.lua
