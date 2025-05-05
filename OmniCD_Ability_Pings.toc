@@ -4,5 +4,9 @@
 ## Author: Veldt
 ## Version: v1.0.0
 ## Dependencies: OmniCD
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-License: MIT
+## X-Curse-Project-ID: 1259473
 
 main.lua
